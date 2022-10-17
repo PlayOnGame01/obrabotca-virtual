@@ -3,12 +3,12 @@
 #include <time.h>
 using namespace std;
 
-class Guess {
+class person {
 	int a;
 	int b;
 
 public:
-	Guess() {
+	person() {
 		a = 0;
 		b = 0;
 	}

@@ -21,7 +21,7 @@ void Check() {
 
 int main() {
 	try {
-		Guess obj1;
+		person obj1;
 		obj1.Example();
 		cout << "\n";
 		int size;
